@@ -1,0 +1,12 @@
+---
+description: My technical stack
+globs: 
+alwaysApply: false
+---
+
+# Technical Stack
+
+- Python for the backend
+- Next js for the frontend with tailwind css, materual UI or Shadn
+- JSON file storage
+- Python tests

@@ -1,0 +1,30 @@
+{
+  "agents": [
+    {
+      "id": "1741479997247",
+      "name": "terst1",
+      "description": "test",
+      "prompt": "jhgkhk",
+      "thoughts": [],
+      "createdAt": "2025-03-09T00:26:37.247Z"
+    },
+    {
+      "id": "1741480014690",
+      "name": "test2",
+      "description": "jkjhkk",
+      "prompt": "lkjkljlk",
+      "thoughts": [
+        "s"
+      ],
+      "createdAt": "2025-03-09T00:26:54.690Z"
+    },
+    {
+      "id": "1741489500414",
+      "name": "test3",
+      "description": "Hello",
+      "prompt": "Hello",
+      "thoughts": [],
+      "createdAt": "2025-03-09T03:05:00.414Z"
+    }
+  ]
+}
